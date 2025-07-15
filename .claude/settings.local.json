@@ -1,0 +1,20 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(cp:*)",
+      "Bash(rm:*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "WebFetch(domain:codepen.io)",
+      "WebFetch(domain:www.solodev.com)",
+      "WebFetch(domain:www.hti.com.br)",
+      "WebFetch(domain:www.notion.so)",
+      "WebFetch(domain:www.notion.com)",
+      "WebFetch(domain:www.figma.com)",
+      "WebFetch(domain:mkt.beanalytic.com.br)",
+      "Bash(git remote add:*)",
+      "Bash(git push:*)"
+    ],
+    "deny": []
+  }
+}
