@@ -102,8 +102,8 @@ textarea {
   --text-secondary: #CBD2D9;
 
   /* Typography */
-  --font-heading: 'Montserrat', sans-serif;
-  --font-body: 'Montserrat', sans-serif;
+  --font-heading: 'Inter', sans-serif;
+  --font-body: 'Inter', sans-serif;
 
   /* Spacing */
   --section-padding: 100px;
